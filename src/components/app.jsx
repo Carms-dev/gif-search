@@ -19,7 +19,7 @@ class App extends Component {
         { id: 'Yqqxtfar585pK' },
         { id: 'pLyjyr923YfNm' }
       ],
-      selectedGifId: 'XZNidMVhsXv6K88uZZ'
+      selectedGifId: null // 'XZNidMVhsXv6K88uZZ'
     };
   }
 
